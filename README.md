@@ -36,11 +36,6 @@ Mi trabajo se centra en el desarrollo backend, la optimización algorítmica y l
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-##  Mis Estadísticas
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=macs100&show_icons=true&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macs100&layout=compact&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
-
 ##  Cómo contactarme
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-regner)

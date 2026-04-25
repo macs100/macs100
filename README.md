@@ -19,22 +19,34 @@ Mi trabajo se centra en el desarrollo backend, la optimización algorítmica y l
 * **AI-Augmented Developer:** No soy un *vibecoder*. Utilizo la inteligencia artificial como Tony Stark usa a J.A.R.V.I.S.: yo defino las ideas, la lógica y la arquitectura del sistema; la IA es mi asistente para acelerar la escritura de código y potenciar mi flujo de trabajo.
 * Siempre aprendiendo: Avanzando en mis estudios de Ingeniería Informática y mejorando mi lógica de estructuras de datos y algoritmos.
 
-##  Mi Stack Tecnológico
+## Stack Tecnológico
 
-### Backend & Bases de Datos
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+<table width="100%">
+  <tr>
+    <th align="center">Backend & Bases de Datos<br><img width="250" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"></th>
+    <th align="center">Programación Competitiva<br><img width="250" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"></th>
+    <th align="center">Otros<br><img width="250" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"></th>
+  </tr>
+  <tr valign="top">
+    <td align="center">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" /><br>
+      <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white" alt="CodeIgniter" /><br>
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL" /><br>
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" /><br>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" /><br>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
+    </td>
+  </tr>
+</table>
 
-### Programación Competitiva
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### Otros
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+---
 
 ##  Cómo contactarme
 

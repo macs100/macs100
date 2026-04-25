@@ -11,15 +11,15 @@ Mi trabajo se centra en el desarrollo backend, la optimización algorítmica y l
 * **Programación Competitiva:** Participación activa en competencias regionales, utilizando algoritmos y estructuras de datos para resolver problemas complejos.
 * **Hardware y Redes:** Experiencia en administración de redes, laboratorios de hardware y electrónica.
 
-## 🚀 Sobre mí
+##  Sobre mí
 
-* 💻 Actualmente enfocado en el **Desarrollo Backend** (PHP, MySQL) y el diseño de arquitecturas sólidas.
-* 🏆 Participo activamente en **Programación Competitiva** (C++, Python) y tengo experiencia destacada en competencias regionales de innovación.
-* 🔌 Disfruto de la intersección entre el software y el hardware, trabajando con electrónica, Arduino y administración de redes.
-* 🤖 **AI-Augmented Developer:** No soy un *vibecoder*. Utilizo la inteligencia artificial como Tony Stark usa a J.A.R.V.I.S.: yo defino las ideas, la lógica y la arquitectura del sistema; la IA es mi asistente para acelerar la escritura de código y potenciar mi flujo de trabajo.
-* 🌱 Siempre aprendiendo: Avanzando en mis estudios de Ingeniería Informática y mejorando mi lógica de estructuras de datos y algoritmos.
+* Actualmente enfocado en el **Desarrollo Backend** (PHP, MySQL) y el diseño de arquitecturas sólidas.
+* Participo activamente en **Programación Competitiva** (C++, Python) y tengo experiencia destacada en competencias regionales de innovación.
+* Disfruto de la intersección entre el software y el hardware, trabajando con electrónica, Arduino y administración de redes.
+* **AI-Augmented Developer:** No soy un *vibecoder*. Utilizo la inteligencia artificial como Tony Stark usa a J.A.R.V.I.S.: yo defino las ideas, la lógica y la arquitectura del sistema; la IA es mi asistente para acelerar la escritura de código y potenciar mi flujo de trabajo.
+* Siempre aprendiendo: Avanzando en mis estudios de Ingeniería Informática y mejorando mi lógica de estructuras de datos y algoritmos.
 
-## 🛠️ Mi Stack Tecnológico
+##  Mi Stack Tecnológico
 
 ### Backend & Bases de Datos
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -36,12 +36,12 @@ Mi trabajo se centra en el desarrollo backend, la optimización algorítmica y l
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-## 📈 Mis Estadísticas
+##  Mis Estadísticas
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=macs100&show_icons=true&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macs100&layout=compact&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 Cómo contactarme
+##  Cómo contactarme
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-regner)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luka.regner@gmail.com)
